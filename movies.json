@@ -1,0 +1,1017 @@
+{
+    "success": true,
+    "data": {
+        "hero": {
+            "id": 1327819,
+            "type": "movie",
+            "title": "Hoppers",
+            "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+            "images": {
+                "logo": "https://image.tmdb.org/t/p/w500/xS2WPzXYUkW9IZwSL56tV74APPm.png",
+                "backdrop": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
+            }
+        },
+        "collections": [
+            {
+                "title": "Trending movies this week",
+                "items": [
+                    {
+                        "id": 1318447,
+                        "title": "Apex",
+                        "poster": "https://image.tmdb.org/t/p/w300/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 936075,
+                        "title": "Michael",
+                        "poster": "https://image.tmdb.org/t/p/w300/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1292695,
+                        "title": "They Will Kill You",
+                        "poster": "https://image.tmdb.org/t/p/w300/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1314481,
+                        "title": "The Devil Wears Prada 2",
+                        "poster": "https://image.tmdb.org/t/p/w300/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1327819,
+                        "title": "Hoppers",
+                        "poster": "https://image.tmdb.org/t/p/w300/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1007757,
+                        "title": "Swapped",
+                        "poster": "https://image.tmdb.org/t/p/w300/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 687163,
+                        "title": "Project Hail Mary",
+                        "poster": "https://image.tmdb.org/t/p/w300/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1226863,
+                        "title": "The Super Mario Galaxy Movie",
+                        "poster": "https://image.tmdb.org/t/p/w300/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 931285,
+                        "title": "Mortal Kombat II",
+                        "poster": "https://image.tmdb.org/t/p/w300/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1430077,
+                        "title": "Hokum",
+                        "poster": "https://image.tmdb.org/t/p/w300/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 83533,
+                        "title": "Avatar: Fire and Ash",
+                        "poster": "https://image.tmdb.org/t/p/w300/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1297842,
+                        "title": "GOAT",
+                        "poster": "https://image.tmdb.org/t/p/w300/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1290821,
+                        "title": "Shelter",
+                        "poster": "https://image.tmdb.org/t/p/w300/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1304313,
+                        "title": "Lee Cronin's The Mummy",
+                        "poster": "https://image.tmdb.org/t/p/w300/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1368166,
+                        "title": "The Housemaid",
+                        "poster": "https://image.tmdb.org/t/p/w300/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 980431,
+                        "title": "Avatar Aang: The Last Airbender",
+                        "poster": "https://image.tmdb.org/t/p/w300/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 840464,
+                        "title": "Greenland 2: Migration",
+                        "poster": "https://image.tmdb.org/t/p/w300/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1325734,
+                        "title": "The Drama",
+                        "poster": "https://image.tmdb.org/t/p/w300/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1450527,
+                        "title": "Forbidden Fruits",
+                        "poster": "https://image.tmdb.org/t/p/w300/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1239198,
+                        "title": "My Dearest Señorita",
+                        "poster": "https://image.tmdb.org/t/p/w300/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
+                        "type": "movie"
+                    }
+                ]
+            },
+            {
+                "title": "Trending series this week",
+                "items": [
+                    {
+                        "id": 76479,
+                        "title": "The Boys",
+                        "poster": "https://image.tmdb.org/t/p/w300/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 124364,
+                        "title": "FROM",
+                        "poster": "https://image.tmdb.org/t/p/w300/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 85552,
+                        "title": "Euphoria",
+                        "poster": "https://image.tmdb.org/t/p/w300/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 37854,
+                        "title": "One Piece",
+                        "poster": "https://image.tmdb.org/t/p/w300/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 270476,
+                        "title": "Widow's Bay",
+                        "poster": "https://image.tmdb.org/t/p/w300/4n3KW1KaiEoCsmwFatR94Y5GT5Q.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 202555,
+                        "title": "Daredevil: Born Again",
+                        "poster": "https://image.tmdb.org/t/p/w300/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 285838,
+                        "title": "If Wishes Could Kill",
+                        "poster": "https://image.tmdb.org/t/p/w300/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 202411,
+                        "title": "Monarch: Legacy of Monsters",
+                        "poster": "https://image.tmdb.org/t/p/w300/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 95557,
+                        "title": "INVINCIBLE",
+                        "poster": "https://image.tmdb.org/t/p/w300/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 223386,
+                        "title": "Man on Fire",
+                        "poster": "https://image.tmdb.org/t/p/w300/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 65930,
+                        "title": "My Hero Academia",
+                        "poster": "https://image.tmdb.org/t/p/w300/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 289219,
+                        "title": "Star Wars: Maul - Shadow Lord",
+                        "poster": "https://image.tmdb.org/t/p/w300/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 257994,
+                        "title": "Half Man",
+                        "poster": "https://image.tmdb.org/t/p/w300/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 79744,
+                        "title": "The Rookie",
+                        "poster": "https://image.tmdb.org/t/p/w300/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 224263,
+                        "title": "Stranger Things: Tales from '85",
+                        "poster": "https://image.tmdb.org/t/p/w300/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 259702,
+                        "title": "The House of the Spirits",
+                        "poster": "https://image.tmdb.org/t/p/w300/yb682O0KCZlS5qRydxOytO5A6co.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 278573,
+                        "title": "Perfect Crown",
+                        "poster": "https://image.tmdb.org/t/p/w300/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 65942,
+                        "title": "Re:ZERO -Starting Life in Another World-",
+                        "poster": "https://image.tmdb.org/t/p/w300/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 278113,
+                        "title": "Gold Land",
+                        "poster": "https://image.tmdb.org/t/p/w300/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 250307,
+                        "title": "The Pitt",
+                        "poster": "https://image.tmdb.org/t/p/w300/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+                        "type": "series"
+                    }
+                ]
+            },
+            {
+                "title": "Popular movies",
+                "items": [
+                    {
+                        "id": 1318447,
+                        "title": "Apex",
+                        "poster": "https://image.tmdb.org/t/p/w300/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1226863,
+                        "title": "The Super Mario Galaxy Movie",
+                        "poster": "https://image.tmdb.org/t/p/w300/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1198994,
+                        "title": "Send Help",
+                        "poster": "https://image.tmdb.org/t/p/w300/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 936075,
+                        "title": "Michael",
+                        "poster": "https://image.tmdb.org/t/p/w300/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1523145,
+                        "title": "Your Heart Will Be Broken",
+                        "poster": "https://image.tmdb.org/t/p/w300/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 10867,
+                        "title": "Malena",
+                        "poster": "https://image.tmdb.org/t/p/w300/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1292695,
+                        "title": "They Will Kill You",
+                        "poster": "https://image.tmdb.org/t/p/w300/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1327819,
+                        "title": "Hoppers",
+                        "poster": "https://image.tmdb.org/t/p/w300/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 83533,
+                        "title": "Avatar: Fire and Ash",
+                        "poster": "https://image.tmdb.org/t/p/w300/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1613798,
+                        "title": "Vengeance",
+                        "poster": "https://image.tmdb.org/t/p/w300/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 350,
+                        "title": "The Devil Wears Prada",
+                        "poster": "https://image.tmdb.org/t/p/w300/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 980431,
+                        "title": "Avatar Aang: The Last Airbender",
+                        "poster": "https://image.tmdb.org/t/p/w300/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1314481,
+                        "title": "The Devil Wears Prada 2",
+                        "poster": "https://image.tmdb.org/t/p/w300/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 687163,
+                        "title": "Project Hail Mary",
+                        "poster": "https://image.tmdb.org/t/p/w300/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1297842,
+                        "title": "GOAT",
+                        "poster": "https://image.tmdb.org/t/p/w300/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1290821,
+                        "title": "Shelter",
+                        "poster": "https://image.tmdb.org/t/p/w300/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1352874,
+                        "title": "The Crucifix: Blood of the Exorcist",
+                        "poster": "https://image.tmdb.org/t/p/w300/u3qOxvlykoTpurg1G8VOcawoePI.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1311031,
+                        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+                        "poster": "https://image.tmdb.org/t/p/w300/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1084242,
+                        "title": "Zootopia 2",
+                        "poster": "https://image.tmdb.org/t/p/w300/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1171145,
+                        "title": "Crime 101",
+                        "poster": "https://image.tmdb.org/t/p/w300/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+                        "type": "movie"
+                    }
+                ]
+            },
+            {
+                "title": "Popular series",
+                "items": [
+                    {
+                        "id": 76479,
+                        "title": "The Boys",
+                        "poster": "https://image.tmdb.org/t/p/w300/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 124364,
+                        "title": "FROM",
+                        "poster": "https://image.tmdb.org/t/p/w300/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 85552,
+                        "title": "Euphoria",
+                        "poster": "https://image.tmdb.org/t/p/w300/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 79744,
+                        "title": "The Rookie",
+                        "poster": "https://image.tmdb.org/t/p/w300/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 2734,
+                        "title": "Law & Order: Special Victims Unit",
+                        "poster": "https://image.tmdb.org/t/p/w300/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 549,
+                        "title": "Law & Order",
+                        "poster": "https://image.tmdb.org/t/p/w300/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 4614,
+                        "title": "NCIS",
+                        "poster": "https://image.tmdb.org/t/p/w300/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1622,
+                        "title": "Supernatural",
+                        "poster": "https://image.tmdb.org/t/p/w300/u40gJarLPlIkwouKlzGdobQOV9k.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 5920,
+                        "title": "The Mentalist",
+                        "poster": "https://image.tmdb.org/t/p/w300/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1416,
+                        "title": "Grey's Anatomy",
+                        "poster": "https://image.tmdb.org/t/p/w300/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 456,
+                        "title": "The Simpsons",
+                        "poster": "https://image.tmdb.org/t/p/w300/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 4057,
+                        "title": "Criminal Minds",
+                        "poster": "https://image.tmdb.org/t/p/w300/gigxjNnACiXAfrwoMox5WJFgc0I.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1399,
+                        "title": "Game of Thrones",
+                        "poster": "https://image.tmdb.org/t/p/w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 95557,
+                        "title": "INVINCIBLE",
+                        "poster": "https://image.tmdb.org/t/p/w300/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1434,
+                        "title": "Family Guy",
+                        "poster": "https://image.tmdb.org/t/p/w300/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 95897,
+                        "title": "Overflow",
+                        "poster": "https://image.tmdb.org/t/p/w300/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 206122,
+                        "title": "Twinkle Love",
+                        "poster": "https://image.tmdb.org/t/p/w300/eCtD0KAa5rRNMnvB4KvLYD4ntRk.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1911,
+                        "title": "Bones",
+                        "poster": "https://image.tmdb.org/t/p/w300/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 59941,
+                        "title": "The Tonight Show Starring Jimmy Fallon",
+                        "poster": "https://image.tmdb.org/t/p/w300/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 46952,
+                        "title": "The Blacklist",
+                        "poster": "https://image.tmdb.org/t/p/w300/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+                        "type": "series"
+                    }
+                ]
+            },
+            {
+                "title": "Top rated movies",
+                "items": [
+                    {
+                        "id": 278,
+                        "title": "The Shawshank Redemption",
+                        "poster": "https://image.tmdb.org/t/p/w300/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 238,
+                        "title": "The Godfather",
+                        "poster": "https://image.tmdb.org/t/p/w300/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 240,
+                        "title": "The Godfather Part II",
+                        "poster": "https://image.tmdb.org/t/p/w300/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 424,
+                        "title": "Schindler's List",
+                        "poster": "https://image.tmdb.org/t/p/w300/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 389,
+                        "title": "12 Angry Men",
+                        "poster": "https://image.tmdb.org/t/p/w300/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 129,
+                        "title": "Spirited Away",
+                        "poster": "https://image.tmdb.org/t/p/w300/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 155,
+                        "title": "The Dark Knight",
+                        "poster": "https://image.tmdb.org/t/p/w300/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 19404,
+                        "title": "Dilwale Dulhania Le Jayenge",
+                        "poster": "https://image.tmdb.org/t/p/w300/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 497,
+                        "title": "The Green Mile",
+                        "poster": "https://image.tmdb.org/t/p/w300/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 122,
+                        "title": "The Lord of the Rings: The Return of the King",
+                        "poster": "https://image.tmdb.org/t/p/w300/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 496243,
+                        "title": "Parasite",
+                        "poster": "https://image.tmdb.org/t/p/w300/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 680,
+                        "title": "Pulp Fiction",
+                        "poster": "https://image.tmdb.org/t/p/w300/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 372058,
+                        "title": "Your Name.",
+                        "poster": "https://image.tmdb.org/t/p/w300/q719jXXEzOoYaps6babgKnONONX.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 157336,
+                        "title": "Interstellar",
+                        "poster": "https://image.tmdb.org/t/p/w300/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 429,
+                        "title": "The Good, the Bad and the Ugly",
+                        "poster": "https://image.tmdb.org/t/p/w300/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 13,
+                        "title": "Forrest Gump",
+                        "poster": "https://image.tmdb.org/t/p/w300/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 769,
+                        "title": "GoodFellas",
+                        "poster": "https://image.tmdb.org/t/p/w300/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 346,
+                        "title": "Seven Samurai",
+                        "poster": "https://image.tmdb.org/t/p/w300/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1181678,
+                        "title": "¿Quieres ser mi hijo?",
+                        "poster": "https://image.tmdb.org/t/p/w300/9GuvODahvuFqdhuZ16aBLR4UJoP.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 12477,
+                        "title": "Grave of the Fireflies",
+                        "poster": "https://image.tmdb.org/t/p/w300/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+                        "type": "movie"
+                    }
+                ]
+            },
+            {
+                "title": "Top rated series",
+                "items": [
+                    {
+                        "id": 1396,
+                        "title": "Breaking Bad",
+                        "poster": "https://image.tmdb.org/t/p/w300/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 209867,
+                        "title": "Frieren: Beyond Journey's End",
+                        "poster": "https://image.tmdb.org/t/p/w300/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 64010,
+                        "title": "Reply 1988",
+                        "poster": "https://image.tmdb.org/t/p/w300/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 246,
+                        "title": "Avatar: The Last Airbender",
+                        "poster": "https://image.tmdb.org/t/p/w300/9RQhVb3r3mCMqYVhLoCu4EvuipP.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 94605,
+                        "title": "Arcane",
+                        "poster": "https://image.tmdb.org/t/p/w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 301507,
+                        "title": "Heated Rivalry",
+                        "poster": "https://image.tmdb.org/t/p/w300/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 37854,
+                        "title": "One Piece",
+                        "poster": "https://image.tmdb.org/t/p/w300/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 250307,
+                        "title": "The Pitt",
+                        "poster": "https://image.tmdb.org/t/p/w300/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 87108,
+                        "title": "Chernobyl",
+                        "poster": "https://image.tmdb.org/t/p/w300/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 60059,
+                        "title": "Better Call Saul",
+                        "poster": "https://image.tmdb.org/t/p/w300/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 31911,
+                        "title": "Fullmetal Alchemist: Brotherhood",
+                        "poster": "https://image.tmdb.org/t/p/w300/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 219246,
+                        "title": "When Life Gives You Tangerines",
+                        "poster": "https://image.tmdb.org/t/p/w300/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 85077,
+                        "title": "The Chosen",
+                        "poster": "https://image.tmdb.org/t/p/w300/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1429,
+                        "title": "Attack on Titan",
+                        "poster": "https://image.tmdb.org/t/p/w300/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 131378,
+                        "title": "Adventure Time: Fionna and Cake",
+                        "poster": "https://image.tmdb.org/t/p/w300/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 60625,
+                        "title": "Rick and Morty",
+                        "poster": "https://image.tmdb.org/t/p/w300/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 46298,
+                        "title": "Hunter x Hunter",
+                        "poster": "https://image.tmdb.org/t/p/w300/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 92685,
+                        "title": "The Owl House",
+                        "poster": "https://image.tmdb.org/t/p/w300/rhzwpJBhi2WkfihXndS1xUdQlzB.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1398,
+                        "title": "The Sopranos",
+                        "poster": "https://image.tmdb.org/t/p/w300/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 234763,
+                        "title": "The Boy's Word: Blood on the Asphalt",
+                        "poster": "https://image.tmdb.org/t/p/w300/fmJ2vVzaSAPvCqB79H70uMHSNr4.jpg",
+                        "type": "series"
+                    }
+                ]
+            },
+            {
+                "title": "Upcoming movies",
+                "items": [
+                    {
+                        "id": 936075,
+                        "title": "Michael",
+                        "poster": "https://image.tmdb.org/t/p/w300/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1292695,
+                        "title": "They Will Kill You",
+                        "poster": "https://image.tmdb.org/t/p/w300/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1304313,
+                        "title": "Lee Cronin's The Mummy",
+                        "poster": "https://image.tmdb.org/t/p/w300/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1193501,
+                        "title": "Whistle",
+                        "poster": "https://image.tmdb.org/t/p/w300/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1367642,
+                        "title": "Reminders of Him",
+                        "poster": "https://image.tmdb.org/t/p/w300/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 425274,
+                        "title": "Now You See Me: Now You Don't",
+                        "poster": "https://image.tmdb.org/t/p/w300/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1480387,
+                        "title": "undertone",
+                        "poster": "https://image.tmdb.org/t/p/w300/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 931285,
+                        "title": "Mortal Kombat II",
+                        "poster": "https://image.tmdb.org/t/p/w300/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1321179,
+                        "title": "The King's Warden",
+                        "poster": "https://image.tmdb.org/t/p/w300/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 361743,
+                        "title": "Top Gun: Maverick",
+                        "poster": "https://image.tmdb.org/t/p/w300/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1408208,
+                        "title": "Exit 8",
+                        "poster": "https://image.tmdb.org/t/p/w300/nQXYTvm6AY4WmtcPskroqC7Skh.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1430077,
+                        "title": "Hokum",
+                        "poster": "https://image.tmdb.org/t/p/w300/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 808,
+                        "title": "Shrek",
+                        "poster": "https://image.tmdb.org/t/p/w300/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1301421,
+                        "title": "The Sheep Detectives",
+                        "poster": "https://image.tmdb.org/t/p/w300/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 467905,
+                        "title": "How to Make a Killing",
+                        "poster": "https://image.tmdb.org/t/p/w300/yQ7OP2HYxl9YmkWNMkuUA2YaF5.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1228710,
+                        "title": "Star Wars: The Mandalorian and Grogu",
+                        "poster": "https://image.tmdb.org/t/p/w300/qSWiY6KAvkapXJWeyNrmDGYWQwr.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 1214931,
+                        "title": "Nuremberg",
+                        "poster": "https://image.tmdb.org/t/p/w300/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 744,
+                        "title": "Top Gun",
+                        "poster": "https://image.tmdb.org/t/p/w300/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 578,
+                        "title": "Jaws",
+                        "poster": "https://image.tmdb.org/t/p/w300/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg",
+                        "type": "movie"
+                    },
+                    {
+                        "id": 10404,
+                        "title": "Raise the Red Lantern",
+                        "poster": "https://image.tmdb.org/t/p/w300/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
+                        "type": "movie"
+                    }
+                ]
+            },
+            {
+                "title": "On the air series",
+                "items": [
+                    {
+                        "id": 76479,
+                        "title": "The Boys",
+                        "poster": "https://image.tmdb.org/t/p/w300/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 124364,
+                        "title": "FROM",
+                        "poster": "https://image.tmdb.org/t/p/w300/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 85552,
+                        "title": "Euphoria",
+                        "poster": "https://image.tmdb.org/t/p/w300/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 79744,
+                        "title": "The Rookie",
+                        "poster": "https://image.tmdb.org/t/p/w300/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 2734,
+                        "title": "Law & Order: Special Victims Unit",
+                        "poster": "https://image.tmdb.org/t/p/w300/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 549,
+                        "title": "Law & Order",
+                        "poster": "https://image.tmdb.org/t/p/w300/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 4614,
+                        "title": "NCIS",
+                        "poster": "https://image.tmdb.org/t/p/w300/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1416,
+                        "title": "Grey's Anatomy",
+                        "poster": "https://image.tmdb.org/t/p/w300/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1434,
+                        "title": "Family Guy",
+                        "poster": "https://image.tmdb.org/t/p/w300/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 206122,
+                        "title": "Twinkle Love",
+                        "poster": "https://image.tmdb.org/t/p/w300/eCtD0KAa5rRNMnvB4KvLYD4ntRk.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 61818,
+                        "title": "Late Night with Seth Meyers",
+                        "poster": "https://image.tmdb.org/t/p/w300/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 65334,
+                        "title": "Miraculous: Tales of Ladybug & Cat Noir",
+                        "poster": "https://image.tmdb.org/t/p/w300/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 1433,
+                        "title": "American Dad!",
+                        "poster": "https://image.tmdb.org/t/p/w300/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 33238,
+                        "title": "Running Man",
+                        "poster": "https://image.tmdb.org/t/p/w300/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 2224,
+                        "title": "The Daily Show",
+                        "poster": "https://image.tmdb.org/t/p/w300/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 63770,
+                        "title": "The Late Show with Stephen Colbert",
+                        "poster": "https://image.tmdb.org/t/p/w300/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 202555,
+                        "title": "Daredevil: Born Again",
+                        "poster": "https://image.tmdb.org/t/p/w300/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 44006,
+                        "title": "Chicago Fire",
+                        "poster": "https://image.tmdb.org/t/p/w300/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 278573,
+                        "title": "Perfect Crown",
+                        "poster": "https://image.tmdb.org/t/p/w300/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+                        "type": "series"
+                    },
+                    {
+                        "id": 22980,
+                        "title": "Watch What Happens Live with Andy Cohen",
+                        "poster": "https://image.tmdb.org/t/p/w300/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+                        "type": "series"
+                    }
+                ]
+            }
+        ]
+    }
+}
